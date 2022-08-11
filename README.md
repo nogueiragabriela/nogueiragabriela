@@ -1,4 +1,4 @@
-## Hi there, I'm <strong>Gabriela Nogueira!</strong>
+## Hi there, I'm <strong>Gabriela Nogueira :sunflower:</strong>
 
 
 
@@ -9,7 +9,7 @@
 
 ----
 
-## 🚀 Skills
+## :zap: Tecnologies
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
@@ -22,7 +22,9 @@
 
 ---
 
-## ⭐ Information
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nogueiragabriela&show_icons=true&theme=github_dark)
-<br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiragabriela&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## :bar_chart: Statistics
+<p align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nogueiragabriela&show_icons=true&theme=material-palenight) 
+  <br></br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiragabriela&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+</p>
