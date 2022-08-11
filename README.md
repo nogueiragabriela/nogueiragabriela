@@ -21,5 +21,5 @@
 
 ## :bar_chart: Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nogueiragabriela&show_icons=true&theme=material-palenight) &nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiragabriela&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nogueiragabriela&show_icons=true&theme=material-palenight)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiragabriela&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
