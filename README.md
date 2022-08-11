@@ -7,8 +7,6 @@
 [![Gabriela Nogueira]( https://img.shields.io/github/followers/GabrielaNogueira?label=follow&style=social)](https://github.com/nogueiragabriela)
 
 
-----
-
 ## :zap: Tecnologies
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -20,11 +18,10 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 
----
 
 ## :bar_chart: Statistics
-<p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nogueiragabriela&show_icons=true&theme=material-palenight) 
-  <br></br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiragabriela&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nogueiragabriela&show_icons=true&theme=material-palenight) 
+ <br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nogueiragabriela&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
